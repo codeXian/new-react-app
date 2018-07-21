@@ -5,7 +5,7 @@ import './index.css';
 import registerServiceWorker from './registerServiceWorker';
 
 import Dash from './routes/Dash';
-import Home from './routes/Home';
+import Home from './routes/Home/index';
 
 ReactDOM.render(
 	<Router>

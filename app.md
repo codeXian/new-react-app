@@ -46,3 +46,26 @@
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/mui-org/material-ui.svg)](http://isitmaintained.com/project/mui-org/material-ui "Average time to resolve an issue")
 
 </div>
+
+## css in js
+
+<div align="center">
+  <a href="https://www.styled-components.com">
+    <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="150px" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <strong>Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅</strong>
+  <br />
+  <br />
+  <a href="https://www.npmjs.com/package/styled-components"><img src="https://www.styled-components.com/proxy/downloads.svg" alt="downloads: 600k/month"></a>
+  <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/styled-components/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/styled-components/sponsors/badge.svg" /></a> <a href="https://spectrum.chat/styled-components"><img src="https://withspectrum.github.io/badge/badge.svg" alt="Join the community on Spectrum"></a>
+  <img src="https://www.styled-components.com/proxy/size.svg" alt="gzip size">
+  <a href="#alternative-installation-methods"><img src="https://img.shields.io/badge/module%20formats-umd%2C%20cjs%2C%20esm-green.svg" alt="module formats: umd, cjs, esm"></a>
+</div>
+
+<br />
+<br />

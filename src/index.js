@@ -1,8 +1,17 @@
+import { Router } from '@reach/router';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+import Dash from './routes/Dash';
+import Home from './routes/Home';
+
+ReactDOM.render(
+	<Router>
+		<Home path="/" />
+		<Dash path="dashboard" />
+	</Router>,
+	document.getElementById('root'),
+);
 registerServiceWorker();
